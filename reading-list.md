@@ -3,7 +3,7 @@ title: Book List
 subtitle: a list of books we read
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 
 WE love books! Here are some we really like:
