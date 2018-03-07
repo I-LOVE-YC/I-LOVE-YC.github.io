@@ -1,8 +1,8 @@
-title: "I-LOVE-YC"
-description: "lol"
+title: "Jekyll-Theme-MDUI"
+description: "A Jekyll theme based on MDUI"
 url: 
 baseurl: ""
-author: "YC&datuzi"
+author: "KeJun"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
