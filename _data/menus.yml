@@ -2,16 +2,16 @@
   url: /
   icon: home
 - name: CATEGORY
-  url: /category/
+  url: /pages/category.html
   icon: "&#xe53b;"
 - name: TAGS
-  url: /tags/
+  url: /pages/tags.html
   icon: "&#xe893;"
 - name: FRIENDS
-  url: /friends/
+  url: /pages/friends.html
   icon: "&#xe8a3;"
 - name: EDITOR
-  url: /editor/
-  icon: "&#xe150;"
+  url: /pages/editor.html
+  icon: "brush"
 - name: navSearch
   switch: true
